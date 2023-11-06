@@ -1,6 +1,7 @@
 - 👋 Hi, I’m KhaledMahfouz5
 - 👀 I’m interested in ... programming 
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... Java
+- I have Already Learnt Javascript .
 -☺️ I am still a beginner in programming
  
 <!---
